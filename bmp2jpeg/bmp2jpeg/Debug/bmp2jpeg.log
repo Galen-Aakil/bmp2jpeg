@@ -1,0 +1,4 @@
+﻿  bmp2jpeg.cpp
+e:\信息论实验\bmp2jpeg\bmp2jpeg\bmp2jpeg.cpp(175): warning C4267: “=”: 从“size_t”转换到“unsigned short”，可能丢失数据
+e:\信息论实验\bmp2jpeg\bmp2jpeg\bmp2jpeg.cpp(680): warning C4101: “len_filename”: 未引用的局部变量
+  bmp2jpeg.vcxproj -> E:\信息论实验\bmp2jpeg\Debug\bmp2jpeg.exe
